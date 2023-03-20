@@ -1,6 +1,6 @@
 /**
- * busino-services-icons
+ * busino-HTML + CSS template for Busino Blog Posts Section
  */
-import './busino-services-icons.twig';
-import './busino-services-icons.wingsuit.yml';
-import './busino-services-icons.css';
+import './busino-HTML + CSS template for Busino Blog Posts Section.twig';
+import './busino-HTML + CSS template for Busino Blog Posts Section.yml';
+import './busino-HTML + CSS template for Busino Blog Posts Section.css';
