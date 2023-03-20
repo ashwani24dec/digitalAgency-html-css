@@ -1,0 +1,9 @@
+busino_services_icons:
+  use: "@templates/busino-HTML + CSS template for Busino Blog Posts Section/busino-HTML + CSS template for Busino Blog Posts Section.twig"
+  label: busino-HTML + CSS template for Busino Blog Posts Section
+  description: Example description
+  libraries:
+    - pattern_busino-HTML + CSS template for Busino Blog Posts Section:
+       css:
+         component:
+           ../busino-HTML + CSS template for Busino Blog Posts Section.css: {}
